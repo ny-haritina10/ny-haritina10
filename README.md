@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFtZDVmMmhoNms2dTJjbndmc2JscTI4d253MHJsMWVrNHRkN3MydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/rabemanantsoa-ny-haritina-593b47238">
+    <a href="https://www.linkedin.com/in/rabemanantsoa-ny-haritina-593b47238/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://web.facebook.com/nyharitinaa/">
@@ -35,7 +35,7 @@ I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: I'm passionate about the potential of artificial intelligence to transform the world, and I'm eager to be a part of this groundbreaking journey.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rabemanantsoa-ny-haritina-593b47238)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabemanantsoa-ny-haritina-593b47238/)
 
 ---
 
