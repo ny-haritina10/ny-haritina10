@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Student  from Madagascar.<br><br>🔭 I am in my third year of a Bachelor's degree at IT University.<br><br>🌱 I'm fascinated by the endless possibilities that the digital realm offers, and I'm driven by the desire to turn complex problems into elegant software solutions.<br><br>⚡ I'm passionate about the potential of artificial intelligence to transform the world, and I'm eager to be a part of this groundbreaking journey.<br><br>📫How to reach me: Linkedin Badge
+I'm a Computer Science Student  from Madagascar.<br><br>🔭 I am in my third year of a Bachelor's degree at IT University.<br><br>🌱 I'm fascinated by the endless possibilities that the digital realm offers, and I'm driven by the desire to turn complex problems into elegant software solutions.<br><br>⚡ I'm passionate about the potential of artificial intelligence to transform the world, and I'm eager to be a part of this groundbreaking journey.<br>
 
 
 ## 🌐 Socials:
