@@ -1,13 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ny Haritina</h1>
-<h3 align="center">🌱 I'm fascinated by the endless possibilities that the digital realm offers, and I'm driven by the desire to turn complex problems into elegant software solutions. ⚡ I'm passionate about the potential of artificial intelligence to transform the world, and I'm eager to be a part of this groundbreaking journey.</h3>
+# 👋 Hello World! I'm Ny Haritina
 
-- 📫 How to reach me **ny.haritina01@gmail.com**
+## 💻 Apprentice Backend Developer & CS Student
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Currently studying Computer Science at [IT University Madagascar](https://www.ituniversity-mg.com), where I'm transforming my passion for technology into expertise.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+> *"I don't just code to write programs; I code to solve problems and bring value."*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ny-haritina10&show_icons=true&locale=en&layout=compact" alt="ny-haritina10" /></p>
+## 👨‍💻 About Me
+
+I'm an apprentice backend enthusiast who thrives on turning complex challenges into elegant software solutions. My curiosity drives me to continuously explore new technologies, with a particular fascination for AI and its limitless potential. When faced with difficult problems, I see opportunities for growth rather than obstacles.
+
+- 🚀 Quick learner and adapter
+- 🧠 Passionate about backend architecture
+- 🔍 Curious problem solver
+- 💡 Dedicated to quality and excellence
+- 🤖 AI enthusiast exploring its applications
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Primary Technologies
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+```java
+// How I approach problems
+public Solution solve(Problem problem) {
+    if (problem.isComplex()) {
+        return new LearningOpportunity(problem);
+    }
+    return elegantSolution(problem);
+}
+```
+
+</div>
+
+## 🌱 Currently...
+
+- Deepening my knowledge of backend architectures
+- Exploring AI implementation in software solutions
+- Working on projects that challenge my skills and creativity
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on projects and discussing new ideas!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabemanantsoa-ny-haritina-593b47238/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ny.haritina01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
